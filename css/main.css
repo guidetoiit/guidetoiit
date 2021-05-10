@@ -2609,6 +2609,9 @@ footer .menu li a:hover {
 .carousel-control-next, .carousel-control-prev{
   top: 20%;
 }
+.center-align{
+  text-align: center;
+}
 
 @media only screen and (max-width: 768px) {
   .page-title{
