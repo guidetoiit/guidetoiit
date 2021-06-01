@@ -2612,7 +2612,16 @@ footer .menu li a:hover {
 .center-align{
   text-align: center;
 }
-
+.home-style{
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  background-color: #009E63;
+}
+.home-style a{
+  color: #FFF;
+  font-size: 21px;
+}
 @media only screen and (max-width: 768px) {
   .page-title{
     font-size: 35px!important;
